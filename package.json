@@ -1,5 +1,6 @@
-{"homepage":"https:abayasaye.github.io/shope-globe-app",
+{
   "name": "shope-globe-app",
+  "homepage":"https:abayasaye.github.io/shope-globe-app",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
