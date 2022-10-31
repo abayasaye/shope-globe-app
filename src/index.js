@@ -11,7 +11,7 @@ import { Home, Product, Products, AboutPage, ContactPage, Cart, Login, Register,
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <BrowserRouter>
+  <BrowserRouter basename="/shope-globe-app">
     <Provider store={store}>
       <Routes>
         <Route path="/" element={<Home />} />
